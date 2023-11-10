@@ -33,8 +33,9 @@ main, a{
     text-decoration: none;
 }
 
-main h2{
+main h1{
     color: black;
+    text-transform: uppercase;
 }
 
 img{
