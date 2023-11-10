@@ -1,0 +1,42 @@
+header{
+    text-align: center;
+    font-size: 20px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+header a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+
+header img{
+    width: 90px;
+}
+
+main p{
+    background-color: brown;
+    color: white;
+    border-radius: 4px;
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+main, a{
+    color: red;
+    padding: 20px;
+    text-decoration: none;
+}
+
+main h2{
+    color: black;
+}
+
+img{
+    border-radius: 20px;
+}
